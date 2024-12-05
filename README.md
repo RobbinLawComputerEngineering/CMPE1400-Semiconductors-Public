@@ -1,1 +1,1 @@
-# CMPE1400-Semiconductors-Public
+# Semiconductors-Public
